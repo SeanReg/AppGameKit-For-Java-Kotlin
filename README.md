@@ -10,14 +10,17 @@ Here a just a few of the ***Benefits**
 		Want to make a desktop tool in AGK? Kotlin & Java have plenty of different libraries for UI like JavaFX, AWT, or Java Swing which will work alongside AGK.
 
 **Supported Platforms**
+
 Windows
 Linux
 
 **Future Platforms**
+
 Mac OSX
 Android
 
 **Getting Started**
+
 To use AGK for Java or Kotlin you will need the following:
 		**Java Development Kit **
 			The latest version of the JDK can be downloaded here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
